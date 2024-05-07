@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CRUD_guide_kotlin</string>
+
+    <string name="back4app_server_url" translatable="false">https://parseapi.back4app.com</string>
+    <string name="back4app_app_id" translatable="false">9sCUvYpPZCJzIvcNY1VDkuhibmtqIkYuZpU5zFAm</string>
+    <string name="back4app_client_key" translatable="false">OD8a3a82rTFIzaOc5nhcwxYw21gX0SFNWdmfhHdj</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="plus">plus</string>
+    <string name="todo_list">TODO List</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="hint_description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_todo">Save TODO</string>
+    <string name="titles">Title</string>
+</resources>
